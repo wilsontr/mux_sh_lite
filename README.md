@@ -7,3 +7,5 @@ I had trouble getting the mux_sh boards included with my Nava to work correctly.
 I decided to try getting rid of the unused S&H circuits, thereby removing three opamps, several capacitors, and many traces and vias from the PCB design. So far, with the reduced density on the very small PCB, things seem to be more stable and reliable. 
 
 [e-licktronic Nava project page](http://www.e-licktronic.com/en/nava-parts-kit/50-nava-tr909-clone.html)
+
+[Oshpark mux_sh lite project page](https://oshpark.com/shared_projects/01qCJ78d)
